@@ -1,0 +1,4 @@
+My great string (which is actually a char*)
+a; b; c
+83
+ia
